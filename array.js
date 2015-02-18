@@ -7,5 +7,5 @@
 	{"entry": ["truck" , "blue" , "big"]
         {"entry": ["car" , "yellow" , "small"]
 ];
- var n = list.length;
-  console.log(n)
+ var n = list.length; // create variable n and set it = to the lenght of the list
+  console.log(n) // print the length of the list
